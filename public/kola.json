@@ -1,0 +1,16 @@
+{
+    "name": "Kola",
+    "description": "What a cute animal, if not illegal to buy one^_^",
+    "image": "https://ipfs.io/ipfs/QmYDkf1SJmGoj1heBSzcy1raJcchtR59icYuxw6Q8spceT",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Animal"
+      },
+      {
+        "trait_type": "Food",
+        "value": "Vegetables"
+      }
+    ]
+  }
+  
